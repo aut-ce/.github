@@ -12,6 +12,27 @@ The name of repositories should use the following pattern:
 .e.g:
 CE101-C, CE101-C-Lab.
 
+#### Course Codes
+
+| Code          | Course Name (EN)                             | Course Name (FA)                          |
+| ------------- |:--------------------------------------------:| -----------------------------------------:|
+| CE101         | Fundamentals of Programming                  | مبانی کامپیوتر و برنامه‌نویسی             |
+| CE102         | Fundamentals of Programming-Lab              | کارگاه مبانی کامپیوتر و برنامه‌نویسی      |
+| CE103         | Discrete Mathematics                         | ریاضیات گسسته                             |
+| CE104         | Advanced Programming                         | برنامه‌نویسی پیشرفته                      |
+| CE105         | Advanced Programming-Lab                     | کارگاه برنامه‌نویسی پیشرفته               |
+| CE201         | Logic Circuits	                             | مدارهای منطقی                             |
+| CE202         | Logic Circuits-Lab                           | آزمایشگاه مدارهای منطقی                   |
+| CE203         | Data Structures and Algorithms	             | ساختمان داده‌ها و الگوریتم‌ها             |
+| CE204         | Electrical and Electronic Circuits	         | مدارهای الکتریکی و الکترونیکی             |
+| CE205         | Electrical and Electronic Circuits-Lab       | آزمایشگاه مدارهای الکتریکی و الکترونیکی   |
+| CE206         | Technical English	                           | زبان تخصصی                                |
+| CE207         | Computer Architecture	                       | معماری کامپیوتر                           |
+| CE208         | Computer Architecture-Lab                    | آزمایشگاه معماری کامپیوتر                 |
+| CE209         | Theory of Machines and Languages             | نظریه ‌زبان‌ها و ماشین‌ها                 |
+
+
+
 The course number can be found in the educational program.
 
 Also, the description of repo should contain the name of the lecturer of the course.
