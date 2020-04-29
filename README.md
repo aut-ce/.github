@@ -90,7 +90,7 @@ CE101-C, CE101-C-Lab.
 | ----- |:----------------------------------------| ---------------------------------:|
 | CE222 | Signals and Systems	                    | سیگنال‌ها و سیستم‌ها              |
 | CE261 | Web Programming	                        | برنامه‌نویسی وب                   |
-| CE361 | Data Transmission                       | انتقال داده­ها                    |
+| CE361 | Data Transmission                       | انتقال داده ها                    |
 | CE362 | Fundamentals of Information Security    | مبانی امنيت اطلاعات                |
 | CE363 | Multimedia Systems                      | سيستم‌هاي چندرسانه‌اي             |
 | CE364 | Mobile device programming               | برنامه‌نویسی دستگاه‌های سیار      |
