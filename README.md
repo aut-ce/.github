@@ -22,8 +22,8 @@ The name of repositories should use the following pattern:
 - {Course code}-{Course name} for theoretical courses. e.g.: CE101-C
 - {Course code}-{Course name}-Lab for practical courses. e.g.: CE101-C-Lab
 
-## Course Codes
-### Main Courses
+### Course Codes
+#### Main Courses
 | Code  | Course Name                                     | عنوان درس                                 |
 | ----- |:------------------------------------------------| -----------------------------------------:|
 | CE101 | Fundamentals of Programming (C)                 | مبانی کامپیوتر و برنامه‌نویسی             |
@@ -51,7 +51,7 @@ The name of repositories should use the following pattern:
 | CE308 | Research and Technical Presentation	            | روش پژوهش و ارائه                         | 
 | CE309 | Internship                                      | کارآموزی                                  |
 | CE401 | Final Project                                   | پروژه پایانی                              |
-### Software Design and Development Package
+#### Software Design and Development Package
 | Code  | Course Name                      | عنوان درس                      |
 | ----- |:---------------------------------| ------------------------------:|
 | CE221 | Algorithm Design	               | طراحی الگوریتم‌ها              |
@@ -62,7 +62,7 @@ The name of repositories should use the following pattern:
 | CE431 | Software Testing                 | آزمون نرم‌افزار                |
 | CE432 | User Interface Design            | طراحی واسط کاربر               |
 | CE421 | Information Retrieval            | بازیابی اطلاعات                 |
-### Computer Systems Package
+#### Computer Systems Package
 | Code  | Course Name                         | عنوان درس                                 |
 | ----- |:------------------------------------| -----------------------------------------:|
 | CE222 | Signals and Systems	                | سیگنال‌ها و سیستم‌ها                      |
@@ -73,7 +73,7 @@ The name of repositories should use the following pattern:
 | CE342 | Multicore Programming               | برنامه‌نویسی چندهسته‌ای                   |
 | CE422 | Fundamentals of Cloud Computing     | مبانی رایانش ابری                         |
 | CE441 | Hardware/Software Co-Design         | طراحی توأم سخت‌افزار و نرم‌افزار          |
-### Artificial Intelligence Package
+#### Artificial Intelligence Package
 | Code  | Course Name                                            | عنوان درس                                 |
 | ----- |:-------------------------------------------------------| -----------------------------------------:|
 | CE221 | Algorithm Design	                                     | طراحی الگوریتم‌ها                         |
@@ -84,7 +84,7 @@ The name of repositories should use the following pattern:
 | CE451 | Introduction to Bioinformatics                         | مقدمه‌ای بر بیوانفورماتیک                 |
 | CE452 | Data Mining                                            | داده کاوی                                 |
 | CE421 | Information Retrieval                                  | بازیابی اطلاعات                            |
-### Computer Networks Package
+#### Computer Networks Package
 | Code  | Course Name                             | عنوان درس                         |
 | ----- |:----------------------------------------| ---------------------------------:|
 | CE222 | Signals and Systems	                    | سیگنال‌ها و سیستم‌ها              |
