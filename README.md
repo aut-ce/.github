@@ -6,14 +6,13 @@ This repository helps you to provide your awesome material here.
 
 ## Add Course
 The name of repositories should use the following pattern:
--  {Course num}-{Course name} for theoretical courses
-- {Course num}-{Course name}-Lab for practical courses
-
+- {Course code}-{Course name} for theoretical courses
+- {Course code}-{Course name}-Lab for practical courses
 .e.g:
 CE101-C, CE101-C-Lab.
 
-#### Course Codes
-
+### Course Codes
+#### Main Courses
 | Code          | Course Name                                  | عنوان درس                                 |
 | ------------- |:---------------------------------------------| -----------------------------------------:|
 | CE101         | Fundamentals of Programming                  | مبانی کامپیوتر و برنامه‌نویسی             |
@@ -41,6 +40,17 @@ CE101-C, CE101-C-Lab.
 | CE308         | Research and Technical Presentation	         | روش پژوهش و ارائه                         | 
 | CE309         | Internship                                   | کارآموزی                                  |
 | CE401         | Final Project                                | پروژه پایانی                              |
+#### Software Package
+| Code          | Course Name                                  | عنوان درس                                 |
+| ------------- |:---------------------------------------------| -----------------------------------------:|
+| CE221         | Algorithm Design	                           | طراحی الگوریتم‌ها                         |
+| CE231         | Principles of Database Design	               | اصول طراحی پایگاه داده‌ها                 |
+| CE232         | Fundamentals of Compiler Design              | اصول طراحی کامپایلر                       |
+| CE233         | Programming Languages                        | ‌زبان‌های برنامه‌نویسی                    |
+| CE331         | Software Engineering II                      | مهندسی نرم‌افزار ۲                        |
+| CE431         | Software Testing                             | آزمون نرم‌افزار                           |
+| CE432         | User Interface Design                        | طراحی واسط کاربر                          |
+| CE421         | Information Retrieval                        | بازیابی اطلاعات                            |
 
 Also, the description of repo should contain the name of the lecturer of the course.
 .e.g:
