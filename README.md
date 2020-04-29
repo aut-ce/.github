@@ -32,11 +32,7 @@ CE101-C, CE101-C-Lab.
 | CE209         | Theory of Machines and Languages             | نظریه ‌زبان‌ها و ماشین‌ها                 |
 
 
-
-The course number can be found in the educational program.
-
 Also, the description of repo should contain the name of the lecturer of the course.
-
 .e.g:
 Dr. Bahador Bakhshi.
 
