@@ -30,7 +30,17 @@ CE101-C, CE101-C-Lab.
 | CE207         | Computer Architecture	                       | معماری کامپیوتر                           |
 | CE208         | Computer Architecture-Lab                    | آزمایشگاه معماری کامپیوتر                 |
 | CE209         | Theory of Machines and Languages             | نظریه ‌زبان‌ها و ماشین‌ها                 |
-
+| CE210         | Applied Linear Algebra                       | جبر خطی کاربردی                           |
+| CE301         | Microprocessor and Assembly Language	       | ریزپردازنده و زبان اسمبلی                 |
+| CE302         | Microprocessor and Assembly Language-Lab     | آزمایشگاه ریزپردازنده و زبان اسمبلی       |
+| CE303         | Operating Systems	                           | سیستم‌های عامل                            |
+| CE304         | Operating Systems-Lab                        | آزمایشگاه سیستم‌های عامل                  |
+| CE305         | Computer Networks	                           | شبکه‌های کامپیوتری                        |
+| CE306         | Computer Networks-Lab                        | آزمایشگاه شبکه‌های کامپیوتری              |
+| CE307         | Software Engineering I	                     | مهندسی نرم‌افزار ۱                        |
+| CE308         | Research and Technical Presentation	         | روش پژوهش و ارائه                         | 
+| CE309         | Internship                                   | کارآموزی                                  |
+| CE401         | Final Project                                | پروژه پایانی                              |
 
 Also, the description of repo should contain the name of the lecturer of the course.
 .e.g:
