@@ -11,8 +11,20 @@ The name of repositories should use the following pattern:
 .e.g:
 CE101-C, CE101-C-Lab.
 
-### Course Codes
-#### Main Courses
+[Course Codes](#course-codes)
+
+Also, the description of repo should contain the name of the lecturer of the course.
+.e.g:
+Dr. Bahador Bakhshi.
+
+Each semester of the course should be added to a directory in the repository.
+
+## Material
+All materials here are open to everyone so you must pick them wisely to represents the idea of most people of this organization. The license of these materials must be checked with professors.
+
+
+## **Course Codes**
+### **Main Courses**
 | Code  | Course Name                                  | عنوان درس                                 |
 | ----- |:---------------------------------------------| -----------------------------------------:|
 | CE101 | Fundamentals of Programming                  | مبانی کامپیوتر و برنامه‌نویسی             |
@@ -40,7 +52,7 @@ CE101-C, CE101-C-Lab.
 | CE308 | Research and Technical Presentation	         | روش پژوهش و ارائه                         | 
 | CE309 | Internship                                   | کارآموزی                                  |
 | CE401 | Final Project                                | پروژه پایانی                              |
-#### Software Design and Development Package
+### **Software Design and Development Package**
 | Code  | Course Name                      | عنوان درس                      |
 | ----- |:---------------------------------| ------------------------------:|
 | CE221 | Algorithm Design	               | طراحی الگوریتم‌ها              |
@@ -51,7 +63,7 @@ CE101-C, CE101-C-Lab.
 | CE431 | Software Testing                 | آزمون نرم‌افزار                |
 | CE432 | User Interface Design            | طراحی واسط کاربر               |
 | CE421 | Information Retrieval            | بازیابی اطلاعات                 |
-#### Computer Systems Package
+### **Computer Systems Package**
 | Code  | Course Name                         | عنوان درس                                 |
 | ----- |:------------------------------------| -----------------------------------------:|
 | CE222 | Signals and Systems	                | سیگنال‌ها و سیستم‌ها                      |
@@ -62,7 +74,7 @@ CE101-C, CE101-C-Lab.
 | CE342 | Multicore Programming               | برنامه‌نویسی چندهسته‌ای                   |
 | CE422 | Fundamentals of Cloud Computing     | مبانی رایانش ابری                         |
 | CE441 | Hardware/Software Co-Design         | طراحی توأم سخت‌افزار و نرم‌افزار          |
-#### Artificial Intelligence Package
+### **Artificial Intelligence Package**
 | Code  | Course Name                                            | عنوان درس                                 |
 | ----- |:-------------------------------------------------------| -----------------------------------------:|
 | CE221 | Algorithm Design	                                     | طراحی الگوریتم‌ها                         |
@@ -73,7 +85,7 @@ CE101-C, CE101-C-Lab.
 | CE451 | Introduction to Bioinformatics                         | مقدمه‌ای بر بیوانفورماتیک                 |
 | CE452 | Data Mining                                            | داده کاوی                                 |
 | CE421 | Information Retrieval                                  | بازیابی اطلاعات                            |
-#### Computer Networks Package
+### **Computer Networks Package**
 | Code  | Course Name                             | عنوان درس                         |
 | ----- |:----------------------------------------| ---------------------------------:|
 | CE222 | Signals and Systems	                    | سیگنال‌ها و سیستم‌ها              |
@@ -84,12 +96,3 @@ CE101-C, CE101-C-Lab.
 | CE364 | Mobile device programming               | برنامه‌نویسی دستگاه‌های سیار      |
 | CE422 | Fundamentals of Cloud Computing         | مبانی رایانش ابری                 |
 | CE461 | Fundamentals of the Internet of Things  | مبانی اینترنت اشیا                |
-
-Also, the description of repo should contain the name of the lecturer of the course.
-.e.g:
-Dr. Bahador Bakhshi.
-
-Each semester of the course should be added to a directory in the repository.
-
-## Material
-All materials here are open to everyone so you must pick them wisely to represents the idea of most people of this organization. The license of these materials must be checked with professors.
