@@ -1,7 +1,7 @@
 # Welcome to Amirkabir University of Technology, Computer Engineering Department
 
 <p align="center">
-  <img src="https://github.com/aut-ce/.github/raw/main/profile/.img/banner.png"></img>
+  <img src="https://github.com/aut-ce/.github/raw/main/profile/.img/banner.jpg"></img>
 </p>
 
 ## Who we are?
