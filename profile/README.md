@@ -1,5 +1,5 @@
-# Welcome to Amirkabir University of Technology, Computer Engineering Department
-
+<h6 align="center">Welcome to</h6>
+<h1 align="center">Amirkabir University of Technology, Computer Engineering Department</h1>
 <p align="center">
   <img src="https://github.com/aut-ce/.github/raw/main/profile/.img/banner.jpg"></img>
 </p>
